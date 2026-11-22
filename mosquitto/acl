@@ -1,0 +1,7 @@
+user pump-001
+topic write devices/pump-001/sensors
+topic read devices/pump-001/commands
+
+user astra-ai
+topic read devices/+/sensors
+topic write devices/+/commands
